@@ -1,3 +1,4 @@
+#if 0
 /*!
  * @file DFRobot_Gesture.h
  * @brief DFRobot_Gesture Class Implementation
@@ -418,8 +419,4 @@ DFRobot_Gesture::eGesture_t DFRobot_Gesture::gesture(String str){
 	lastPN = nump;
 	return gesture;
 }
-
-
-
-
-
+#endif
