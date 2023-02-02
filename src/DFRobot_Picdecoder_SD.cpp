@@ -1,3 +1,5 @@
+#if 0
+
 #include "DFRobot_Picdecoder_SD.h"
 
 
@@ -1097,4 +1099,6 @@ bool DFRobot_Picdecoder_SD::drawPicture(const char* filename, uint16_t sx, uint1
     return false;
   }
 }
+#endif
+  
 #endif
